@@ -13,8 +13,11 @@
 ##  تیلیگرامه که م
 <p><a href="https://t.me/SARKAUT"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120""/></a></p>
 
-<img src="https://github.com/Sarkaaut/Sarkaaut/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinvar&theme=blue-green" alt="snake"></center>
+  <img src="https://github.com/albinvar/albinvar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
 
 - 👋 Hi, I’m @Sarkaaut
 - 😊 Country = 🇹🇯
