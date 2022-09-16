@@ -8,7 +8,6 @@
 
 [![Github Graphs](https://activity-graph.herokuapp.com/graph?username=Sarkaaut&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/Sarkaaut)
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarkaaut&layout=compact&theme=cobalt)](https://github.com/Sarkaaut)
 
 ##  تیلیگرامه که م
 <p><a href="https://t.me/SARKAUT"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120""/></a></p>
