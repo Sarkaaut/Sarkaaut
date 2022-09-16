@@ -9,8 +9,7 @@
 [![Github Graphs](https://activity-graph.herokuapp.com/graph?username=Sarkaaut&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/Sarkaaut)
 
 
-##  تیلیگرامه که م
-<p><a href="https://t.me/SARKAUT"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120""/></a></p>
+<p><a href="https://t.me/SARKAUT"><img src="https://img.shields.io/badge/تیلیگرامه که م-blue?style=for-the-badge&logo=telegram" width="120""/></a></p>
 
 <p align="center">
   <img src="https://github.com/albinvar/albinvar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
