@@ -19,7 +19,7 @@
 - 👋 Hi, I’m @Sarkaaut
 - 😊 Country = 🇹🇯
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning SQL, JAVA
+- 🌱 I’m currently learning php, python
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me
 - ✉️ sarkaaut@gmail.com
